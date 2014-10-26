@@ -1,8 +1,15 @@
+
 package com.wilmeramezquita.cola1;
 
 import javax.swing.JApplet;
 import javax.swing.JOptionPane;
 
+/**
+ * @author Wilmer Manuel Amézquita
+ * @Details Estructuras dinámicas utilizando el lenguaje de programación Java 
+ * @version 1.0
+ * 
+ */
 public class Cola1 extends JApplet{
 
 	static double SALDO=0;
