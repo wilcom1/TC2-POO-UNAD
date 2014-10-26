@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  * @version 1.0
  * 
  */
-public class Cola1 extends JApplet{
+public class Cola1Applet extends JApplet{
 
 	static double SALDO=0;
 	public void init(){
